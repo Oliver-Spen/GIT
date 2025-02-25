@@ -18,4 +18,5 @@ my 17th edit
 my 18th edit
 my 19th edit
 my 20th edit
-pushing to github
+pushing to GitHub
+editing my own edit
